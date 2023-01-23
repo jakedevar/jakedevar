@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I'm Jake.
 
-<!--
-**jakedevar/jakedevar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer with a sales background based in Houston, TX.
+I enjoy working on technical problems and learning new technologies.
+Skills:
+Frontend: JavaScript, TypeScript, React/Redux, Handlebars, CSS
+Backend: Node.js, Express.js, SQL, PostgreSQL, MongoDB, Go, Ruby
+Other: AWS, Digital Ocean, Heroku, Git/GitHub, Docker, Jest, React Testing Library
+Personal Website
 
-Here are some ideas to get you started:
+LinkedIn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most recently I built Constellation, an open-source, serverless, framework that simplifies geographically distributed API load testing.
+Constellation was built with React, Node.js, AWS, and Docker.
+   
+See the Constellation case study here
