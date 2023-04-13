@@ -10,4 +10,4 @@ See the Constellation case study [here](https://constellation-load-testing.githu
 
 [My personal website](https://www.jakedevarennes.com/)
 
-[Linkdin](https://www.linkedin.com/in/jake-devarennes-a42938167/)
+[Linkedin](https://www.linkedin.com/in/jake-devarennes-a42938167/)
